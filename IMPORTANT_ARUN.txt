@@ -1,0 +1,22 @@
+$ git 
+clone - git clone followed by url
+staging - git add followed by path
+
+
+
+--
+
+
+
+--
+Copy Base > Work on File > Stage/Unstage > Commit Changes (During commit all files in staging will get committed) > 
+
+
+---
+> Concept of staging
+
+
+
+>
+Username: arunaugustine1
+pswd: arunaugustine1github
